@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.523f09c5.chunk.css",
+    "main.js": "/static/js/main.4c43802f.chunk.js",
+    "main.js.map": "/static/js/main.4c43802f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.743d20cc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.743d20cc.js.map",
+    "static/js/2.db68ecf8.chunk.js": "/static/js/2.db68ecf8.chunk.js",
+    "static/js/2.db68ecf8.chunk.js.map": "/static/js/2.db68ecf8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6f17b3b092c4cf13cb066dbe8dd01038.js": "/precache-manifest.6f17b3b092c4cf13cb066dbe8dd01038.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.db68ecf8.chunk.js.LICENSE.txt": "/static/js/2.db68ecf8.chunk.js.LICENSE.txt",
+    "static/media/i_love_you.png": "/static/media/i_love_you.7c27ffed.png",
+    "static/media/thumbs_up.png": "/static/media/thumbs_up.1cfa24a5.png",
+    "static/media/victory.png": "/static/media/victory.6db44b04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.743d20cc.js",
+    "static/js/2.db68ecf8.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.4c43802f.chunk.js"
+  ]
+}
